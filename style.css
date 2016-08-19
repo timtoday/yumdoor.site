@@ -17,6 +17,7 @@
    1 = Global
    ============ */
 body {font-family: 'Lato', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; font-weight: normal; font-style: normal; font-size: 16px; line-height: 1.4; color: #5A5A5A; position: relative; -webkit-font-smoothing: antialiased; background: #fff; margin:0;}
+body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
 body.login-page {background:url(images/login_page_bg.jpg);}
 
 .row {max-width:1170px;}
